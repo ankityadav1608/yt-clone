@@ -1,0 +1,17 @@
+{
+  "name": "oneproject",
+  "version": "1.0.0",
+  "description": "Full youtube clone",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["youtube clone"],
+  "author": "Ankit yadav",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
